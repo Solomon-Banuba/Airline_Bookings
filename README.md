@@ -125,6 +125,38 @@ Deriving insights from using visualisations.
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+## Optional Tasks:
+
+- Missing Values in New Route: To address missing data in the new route identifier, we can use conditional logic. If the flight date for the minimum year is 2023, it is considered a new route. Conversely, if the minimum year of the flight date is 2019, it indicates that the flight has been in operation since 2019, classifying it as an old route.
+
+- Additional Data Sources: 
+To obtain a comprehensive view of the trend series, we should include complete data sets for 2020, 2021, 2022, and 2023. Relying solely on data from 2019 and 2023 may not reveal whether there is a recurring pattern during Easter periods or if the observed changes are isolated incidents.Regarding Customer Group: It would be valuable to gather demographic information about customers, such as age and gender data, in order to gain insights into the characteristics of customers that influence booking behavior.
+
+
+
+- Outliers/Developments:
+Potential outliers have been identified in Booked Seats, Fare Revenue, and Ancillary Revenue (please refer to the box plots below). Consequently, further investigation is necessary to address these influential outliers. If significant outliers are detected through an outlier test, adjustments to the dashboard should be made to accommodate them.
+
+#### Box plot of BookedSheats
+![image](https://github.com/Solomon-Banuba/Airline_Bookings/assets/101892794/ebd203a2-bfcc-4950-9b25-fee903e61aef)
+
+
+
+
+#### Box plot of Ancilliary Revenue
+
+![image](https://github.com/Solomon-Banuba/Airline_Bookings/assets/101892794/9427d294-c951-4003-b5e3-9d2ab50be3ff)
+
+
+
+
+
+
 
 
 
