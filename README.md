@@ -20,7 +20,7 @@ Now we understand the business objectives from the stakeholders, let's start to 
    The data source is from Kaggle. Link to three csv: ![image](https://github.com/Solomon-Banuba/Airline_Bookings/assets/101892794/ab33568d-ec78-4c17-a131-4966d1099cc8)
    
  #### Metadata: Table description
- Bookings Table: Containing seven(7) columns:
+ i. Bookings Table: Containing seven(7) columns:
  - BookingCode: A unique code associated with a booking transaction.
  - BookingDate: The date when the booking was made.
  - FlightDate: The scheduled date for the flight associated with the booking.
@@ -28,4 +28,14 @@ Now we understand the business objectives from the stakeholders, let's start to 
  - BookedSeats: The number of seats booked in the flight for a particular booking.
  - RevenueActualFare: The actual fare revenue generated from the booking.
  - Ancillary Revenue: Additional revenue generated from ancillary services or add-ons associated with the booking.
+
+
+ii. Flight Info:
+
+- FlightId: A unique identifier assigned to a specific flight.
+- OriginDestination: The route or path indicating the origin and destination airports for the flight.
+- CustomClusterName: A customized cluster name or label associated with the flight.
+- IsNew: A binary indicator (True/False) denoting whether the flight is classified as new.
+- Capacity: The maximum number of seats or passengers the flight can accommodate.
+- FlightCosts: The overall costs associated with operating the flight, covering various expenses related to its execution.
 
