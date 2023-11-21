@@ -16,8 +16,10 @@ The Revenue and Net Planning departments provide you with Spain's (fictional) sa
 
 
 Now we understand the business objectives from the stakeholders, let's start to work on the porject.
+
+ ### - Tools: Power BI and Pytho(Pandas)
  ## 1. DATA ACQUISITION
-   The data source is from Kaggle. Link to three csv: ![image](https://github.com/Solomon-Banuba/Airline_Bookings/assets/101892794/ab33568d-ec78-4c17-a131-4966d1099cc8)
+   The data source is from Kaggle. Link to three csv: https://www.kaggle.com/datasets/banuba/flight-bookings
    
  #### Metadata: Table description
  i. Bookings Table: Containing seven(7) columns:
@@ -44,4 +46,25 @@ iii. Sales Details:
 - BookingID: A unique identifier assigned to a specific booking transaction.
 - Customer Group: The categorization or grouping of customers associated with the booking.
 - Sales Group: The categorization or grouping of sales related to the booking.
+
+
+## 2. DATA EXPLORATION
+Summarise information about the datasets
+
+## 3. DATA CLEANING
+
+Fill/drop null values, data validation, etc.
+
+## 4. DATA TRANSFORMATION
+ Joins, categorisation, feature engineering
+
+
+## 5. DATA ANALYSIS
+Deriving insights from the project - using visualisations
+
+
+
+
+
+
 
