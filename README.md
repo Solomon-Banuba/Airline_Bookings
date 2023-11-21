@@ -16,4 +16,7 @@ The Revenue and Net Planning departments provide you with Spain's (fictional) sa
 
 
 Now we understand the business objectives from the stakeholders, let's start to work on the porject.
+ 1. DATA ACQUISITION
+    Find your dataset (from Kaggle, data scraping etc.)
+![image](https://github.com/Solomon-Banuba/Airline_Bookings/assets/101892794/ab33568d-ec78-4c17-a131-4966d1099cc8)
 
