@@ -48,10 +48,11 @@ iii. Sales Details:
 
 
 ## 2. DATA EXPLORATION
-Data exploration to have an overview of the dataset are done in python. See jupiter notebook here
+Data exploration to have an overview of the dataset are done in python. See jupiter notebook here https://github.com/Solomon-Banuba/Data_Analytics_Python_23/blob/main/Flight_Booking_and_Performance_Analysis.ipynb
+
 
 ## 3. DATA CLEANING
-Some data cleaning activities such Fill/drop null values, data validation, etc.. See jupiter notebook
+Some data cleaning activities such Fill/drop null values, data validation, etc.. See jupiter notebook https://github.com/Solomon-Banuba/Data_Analytics_Python_23/blob/main/Flight_Booking_and_Performance_Analysis.ipynb
 
 ## 4. DATA TRANSFORMATION (ETL)
  Data extracted, transformed and loaded into Power BI for modeling and visualiaztion. 
