@@ -15,3 +15,5 @@ The Revenue and Net Planning departments provide you with Spain's (fictional) sa
 * Include ad-hoc analytical scripts in R or Python to gain meaningful insights.
 
 
+Now we understand the business objectives from the stakeholders, let's start to work on the porject.
+
