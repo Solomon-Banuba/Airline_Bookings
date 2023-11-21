@@ -42,25 +42,23 @@ ii. Flight Info:
 - FlightCosts: The overall costs associated with operating the flight, covering various expenses related to its execution.
 
 iii. Sales Details:
-
 - BookingID: A unique identifier assigned to a specific booking transaction.
 - Customer Group: The categorization or grouping of customers associated with the booking.
 - Sales Group: The categorization or grouping of sales related to the booking.
 
 
 ## 2. DATA EXPLORATION
-Summarise information about the datasets
+Data exploration to have an overview of the dataset are done in python. See jupiter notebook here
 
 ## 3. DATA CLEANING
+Some data cleaning activities such Fill/drop null values, data validation, etc.. See jupiter notebook
 
-Fill/drop null values, data validation, etc.
-
-## 4. DATA TRANSFORMATION
- Joins, categorisation, feature engineering
+## 4. DATA TRANSFORMATION (ETL)
+ Data extracted, transformed and loaded into Power BI for modeling and visualiaztion. 
 
 
 ## 5. DATA ANALYSIS
-Deriving insights from the project - using visualisations
+Deriving insights from using visualisations
 
 
 
