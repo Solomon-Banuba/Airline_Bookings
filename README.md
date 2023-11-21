@@ -21,8 +21,8 @@ Now we understand the business objectives from the stakeholders, let's start to 
    
  #### Metadata: Table description
  i. Bookings Table: Containing seven(7) columns:
- - BookingCode: A unique code associated with a booking transaction.
- - BookingDate: The date when the booking was made.
+ -- BookingCode: A unique code associated with a booking transaction.
+ -- BookingDate: The date when the booking was made.
  - FlightDate: The scheduled date for the flight associated with the booking.
  - FlightNumber: The unique identifier assigned to a specific flight.
  - BookedSeats: The number of seats booked in the flight for a particular booking.
