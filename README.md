@@ -17,7 +17,7 @@ The Revenue and Net Planning departments provide you with Spain's (fictional) sa
 
 Now we understand the business objectives from the stakeholders, let's start to work on the porject.
 
- ### - Tools: Power BI and Pytho(Pandas)
+ ### - Tools: Power BI and Python(Pandas)
  ## 1. DATA ACQUISITION
    The data source is from Kaggle. Link to three csv: https://www.kaggle.com/datasets/banuba/flight-bookings
    
